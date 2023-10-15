@@ -1,0 +1,12 @@
+{
+    "general/patreon": "Patreon",
+    "general/thank_you_x_message": "🎉 Vielen Dank, dass du **{{username}}** ein **{{tier}}** Patreon-Unterstützer geworden bist!",
+    "admin/updated_successfully": "Erfolgreich aktualisiert.",
+    "admin/settings": "Einstellungen",
+    "admin/new_version_x": "Neue Modulversion: {{neue_version}}",
+    "admin/new_update_available_x": "Es existiert ein neues Update für das Modul {{module}}",
+    "admin/new_urgent_update_available_x": "Es existiert ein neues dringendes Update für das Modul {{module}}. Bitte aktualisiere so schnell wie möglich!",
+    "admin/current_version_x": "Aktuelle Modulversion: {{version}}",
+    "admin/view_resource": "Ressource ansehen",
+    "admin/could_not_sync": "Patreon-Details konnten nicht synchronisiert werden. Vielleicht hast du eine falsche Kunden-ID, ein falsches Kundengeheimnis oder ein falsches Zugangs-Token eingegeben?"
+}
